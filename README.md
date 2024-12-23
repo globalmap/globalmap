@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am a Frontend developer with many years of experience, specializing in pure JavaScript, TypeScript, and React. In my work I also use Next.js, Redux (Redux Toolkit) and Node.js, and have basic experience with WebSockets. I have experience working in teams consisting of a lead, designer, tester, and 2-3 developers. The last project I worked on as a lead frontend developer can be found here: https://yourpricebooking.com.
+I am a Frontend developer with many years of experience, specializing in pure JavaScript, TypeScript, and React. In my work I also use Next.js, Redux (Redux Toolkit) and Node.js, and have basic experience with WebSockets. I have experience working in teams consisting of a lead, designer, tester, and 2-3 developers. 
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [oleksandr.hanaichuk@ukr.net](mailto:oleksandr.hanaichuk@ukr.net)
