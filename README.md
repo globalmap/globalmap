@@ -8,7 +8,6 @@ I am a Frontend developer with many years of experience, specializing in pure Ja
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [oleksandr.hanaichuk@ukr.net](mailto:oleksandr.hanaichuk@ukr.net)
-* 🚀  I'm currently working on [Your Price Booking](http://yourpricebooking.com)
 * 🤝  I'm open to collaborating on intresting project
 
 ### Skills
