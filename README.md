@@ -26,6 +26,4 @@ I am a Frontend developer with many years of experience, specializing in pure Ja
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/globalmap"><img src="https://github-readme-streak-stats.herokuapp.com/?user=globalmap&stroke=ffffff&background=22272e&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <a href="https://github.com/globalmap" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=globalmap&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
